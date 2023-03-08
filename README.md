@@ -38,3 +38,7 @@ An 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿
 In comparison to 𝗢𝗻𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, Clean Architecture offers a clearer separation of concerns and a better comprehension of boundaries. They support similar ideals but with various levels, and they are close relatives. Clean architecture makes it crystal clear why each layer is necessary and what each one's roles are, which is why it is often referred to as 𝘀𝗰𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲.
 
 ![image](https://user-images.githubusercontent.com/124002280/223745968-951a71f2-6e79-479f-872a-6c5fc05e9030.png "Clean Architecture Model")
+
+## More references on Clean Architecture
+- [Clean Architetcure Blog from Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Clean Architetcure Video Lessons - Uncle Bob](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
