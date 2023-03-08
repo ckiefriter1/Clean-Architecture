@@ -40,5 +40,5 @@ In comparison to 𝗢𝗻𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂�
 ![image](https://user-images.githubusercontent.com/124002280/223745968-951a71f2-6e79-479f-872a-6c5fc05e9030.png "Clean Architecture Model")
 
 ## More references on Clean Architecture
-- [Clean Architetcure Blog from Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-- [Clean Architetcure Video Lessons - Uncle Bob](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+- [Clean Architecture Blog from Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Clean Architecture Video Lessons - Uncle Bob](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
