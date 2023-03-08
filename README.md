@@ -25,15 +25,15 @@ The Clean Architecture philosophy defines a 𝘀𝗲𝘁 𝗼𝗳 𝗹𝗮𝘆�
 
 An 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 with Clean Architecture could look like, this for POS App:
 
-📁 Source
-|__ 📁 Core 
-|____ 📁 Application
-|____ 📁 Domain
-|__ 📁 Infrastructure
-|____ 📁 Identity
-|____ 📁 Persistence
-|____ 📁 Shared
-|__ 📁 Api
-|__ 📁 ...
+📁 Source <br>
+|__ 📁 Core <br> 
+|____ 📁 Application <br>
+|____ 📁 Domain <br>
+|__ 📁 Infrastructure <br>
+|____ 📁 Identity <br>
+|____ 📁 Persistence <br>
+|____ 📁 Shared <br>
+|__ 📁 Api <br>
+|__ 📁 ... <br>
 
 In comparison to 𝗢𝗻𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, Clean Architecture offers a clearer separation of concerns and a better comprehension of boundaries. They support similar ideals but with various levels, and they are close relatives. Clean architecture makes it crystal clear why each layer is necessary and what each one's roles are, which is why it is often referred to as 𝘀𝗰𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲.
